@@ -23,7 +23,7 @@ echo -e "\e[33mWelcome to training"
 
 echo -e "\e[34mWelcome to training"
 
-echo -e "\e[35mWelcome to training"
+echo -e "\e[35mWelcome to training\e[0m"
 
 echo Good Evening
 
