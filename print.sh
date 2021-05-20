@@ -12,3 +12,6 @@ echo bye
 
 echo -e "hai/nbyee"
 
+echo -e "Hai/nBye"
+
+
