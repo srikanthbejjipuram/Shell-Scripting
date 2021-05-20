@@ -25,3 +25,5 @@ echo -e "\e[34mWelcome to training"
 
 echo -e "\e[35mWelcome to training"
 
+echo Good Evening
+
