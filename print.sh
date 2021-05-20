@@ -14,4 +14,6 @@ echo -e "hai/nbyee"
 
 echo -e "Hai/nBye"
 
+echo -e "\e[31mWelcome to training"
+
 
