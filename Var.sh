@@ -8,3 +8,6 @@ b=(10 20)
 
 echo $b
 
+echo ${b[0]}
+
+echo ${b[1]}
